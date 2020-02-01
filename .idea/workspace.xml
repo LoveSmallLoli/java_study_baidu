@@ -19,11 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="682ce329-b45f-491e-acc4-c72fd8c37f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_study_baidu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="682ce329-b45f-491e-acc4-c72fd8c37f15" name="Default Changelist" comment="项目建立">
+      <changelist_data name="LoveSmallLoli" email="lovesmallloli@outlook.com" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/a_前言_入门_常量_变量/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/b_数据类型转换_运算符_方法入门/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/c_流程控制语句/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/d_IDEA_方法/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/e_数组/e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="LoveSmallLoli &lt;lovesmallloli@outlook.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XD7wGCqFzZcDGWdQCdZY8wWHvy" />
@@ -43,16 +52,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/e_数组" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/e_数组" />
+      <recent name="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/d_IDEA_方法" />
+      <recent name="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/c_流程控制语句" />
+      <recent name="$PROJECT_DIR$/src/main/java/a_java语言入门/a_java基础语法/b_数据类型转换_运算符_方法入门" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -64,7 +84,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580569047544</updated>
-      <workItem from="1580569053388" duration="1415000" />
+      <workItem from="1580569053388" duration="1656000" />
+      <workItem from="1580571363476" duration="1821000" />
     </task>
     <servers />
   </component>
@@ -79,7 +100,29 @@
             <State />
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1035" y="216" width="800" height="682" key="#Deployment" timestamp="1580573185957">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1035" y="216" width="800" height="682" key="#Deployment/0.27.1920.1053@0.27.1920.1053" timestamp="1580573185957" />
+    <state x="898" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580571485147">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="898" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1580571485147" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1580571219553">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1580571219553" />
   </component>
 </project>
